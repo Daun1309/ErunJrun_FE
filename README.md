@@ -1,16 +1,15 @@
-# 냉장고 속 갖가지 레시피 Chef Lee 🧅🧄🥔🥦🍅
+# 🥦🍅🥬 냉장고 속 갖가지 레시피 Chef Lee 🧅🧄🥔
 
 ![banner](https://ifh.cc/g/ATBgQ3.jpg)
 
 <br>
 
-## 📌 바로가기
+## 🌱 프로젝트 소개및 제작 계기
+냉장고를 관리해주는 어플로 재료를 쉽고 편리하게 관리 할 수 있고, 냉장고 속 재료로 만들 수 있는 음식의 조리법, 영양 성분에 관한 자료를 제공해주는 모바일 전용 사이트입니다.
 
-- 사이트 바로가기 : https://www.erunjrun.com/
-- 프론트엔드 GitHub Repository : https://github.com/ErunJrun/ErunJrun_FE
-- 백엔드 GitHub Respository : https://github.com/ErunJrun/ErunJrun_BE
-- 시연 영상 보러가기: https://www.youtube.com/watch?v=j64DAMz1pDw
-<!-- - Team Notion : https://www.notion.so/RUN-RUN-ea797e61794b442fadf987d40b0fad5e -->
+React를 기반으로 한 프로젝트를 만들기로 했습니다.
+외부의 api를 받아와 프로젝트를 만들고 싶다는 생각이 들어 무료 api자료들을 찾아보던 중 식품의약품안전처에서 제공하는 조리식품의 레시피DB라는 api를 찾게 되어 요리 레시피 관련 프로젝트를 구상했습니다.
+요리 관련 웹사이트 아이디어 구상 중에 자취할때 요리를 해 먹으려 사놓은 재료들을 다 쓰지 않은 채로 아깝게 버려지던 생각이 나서,특정 재료만을 입력하여 만들 수 있는 요리 레시피를 보여주는 웹사이트를 만들어야겠다고 생각했습니다. 그렇게 자취생들과 주부를 대상으로 한 CHEF LEE 라는 웹 사이트를 기획하였습니다. 여기서 CHEF LEE의 뜻은 저와 팀원 어머니의 이름 성씨에서 따왔고, 엄마가 해주던 맛있는 음식이라는 뜻을 품고 있습니다.
 
 <br>
 
