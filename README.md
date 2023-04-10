@@ -1,6 +1,6 @@
-# 함께 뛰는 즐거움 🏃‍♀️🏃이RUN 저RUN💨💨
+# 냉장고 속 갖가지 레시피 Chef Lee 🧅🧄🥔🥦🍅
 
-![banner](https://user-images.githubusercontent.com/100745412/170878912-8c879a79-a77b-49db-8ba5-72882d56bdea.png)
+![banner](https://ifh.cc/g/ATBgQ3.jpg)
 
 <br>
 
